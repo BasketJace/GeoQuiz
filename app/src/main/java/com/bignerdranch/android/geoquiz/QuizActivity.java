@@ -84,7 +84,7 @@ public class QuizActivity extends AppCompatActivity {
             mCurrentIndex = savedInstanceState.getInt(KEY_INDEX, 0);
         }
 
-        updateQuestion();//
+        updateQuestion();
     }
 
     @Override
